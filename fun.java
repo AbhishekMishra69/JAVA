@@ -7,7 +7,7 @@ public class fun {
         fun ob=new fun();
        // ob.show(5, 5);
       
-        System.out.println( ob.show(5, 5));
+        System.out.println( ob.show(5, 5)); //This is print Statement
        
     }
 }
